@@ -1,6 +1,6 @@
 # mxcat-code-standards
 
-在新写 TypeScript / JavaScript 时约束架构落点和代码风格。技能包入口是同目录的 `SKILL.md`。
+约束新增 TypeScript、JavaScript、JSX、TSX 源码的架构落点和代码风格，覆盖目录与模块边界、代码风格。技能包入口是同目录的 `SKILL.md`。
 
 源仓库：https://github.com/maoxiancat/mxcat-code-standards
 
